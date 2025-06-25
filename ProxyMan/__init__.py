@@ -1,1 +1,1 @@
-from .proxyman import ProxyManager, StrategyType
+from .proxymanager import ProxyManager, StrategyType
